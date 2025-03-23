@@ -1,0 +1,5 @@
+id,task,status,description,priority
+1,"projeto frontend api",Em andamento,"projeto que consome api de jsonplaceholder",alto
+2,"projeto frontend e-commerce",Pendente,"projeto que consome api e transforma em um ecommerce",alto
+3,"projeto javascript calculadora",Concluída,"Projeto que cria uma função de calculadora.",alto
+4,"projeto backend",Cancelada,"Cria um projeto backend.",alto
